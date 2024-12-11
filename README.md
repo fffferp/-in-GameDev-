@@ -28,9 +28,11 @@
 -Задание 1. \
 
 -Скачать anaconda, и в Jupyter Notebook написать команду с содержанием Hello World.
-``` 
+```
 print('Hello World')
+``` 
 ## Задание 2
+
 -Написать программу Hello World на C# с запуском на Unity. 
 ```
 using UnityEngine;
